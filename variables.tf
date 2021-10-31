@@ -1,3 +1,7 @@
+variable "region"{
+    type= string
+    description = "enter the region in which resources need to be deployed"
+}
 variable "cidr_ip"{
     type= string
     description = "enter the ip range"
