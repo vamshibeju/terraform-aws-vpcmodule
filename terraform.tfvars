@@ -1,0 +1,7 @@
+cidr_ip = "192.168.0.0/16"
+internetgateway = "modulegateway"
+privatesubnet = "192.168.1.0/24"
+publicsubnet = "192.168.2.0/24"
+VPCNAME = "modulevpcname"
+elasticip = "moduleelasticip"
+region = "us-east-2"
